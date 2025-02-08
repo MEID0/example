@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data flavor="com.sonarsource.architecture.export.java" version="1.0.0" site="https://www.sonarsource.com/">
+  <modules>
+    <module id="-754504905" type="file" name="DemoClass.java" fat="7">
+      <submodule id="1411453283" type="class" name="DemoClass" fat="6">
+        <submodule id="1263445599" type="method" name="getName" fat="1" />
+        <submodule id="736689112" type="method" name="duplicateMethod" fat="1" />
+        <submodule id="-1039877233" type="field" name="unusedVariable" fat="1" />
+        <submodule id="-98875214" type="method" name="main" fat="1" />
+        <submodule id="33942086" type="field" name="PASSWORD" fat="1" />
+      </submodule>
+    </module>
+  </modules>
+  <dependencies>
+    <dependency from="-98875214" to="1411453283" type="references" />
+    <dependency from="-98875214" to="1263445599" type="calls" />
+    <dependency from="-98875214" to="736689112" type="calls" />
+    <dependency from="-98875214" to="33942086" type="references" />
+  </dependencies>
+</data>

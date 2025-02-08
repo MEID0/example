@@ -43,4 +43,4 @@ public class DemoClass {
     private static void duplicateMethod() {
         System.out.println("This is a duplicated method.");
     }
-}
+}}

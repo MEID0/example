@@ -1,0 +1,7 @@
+organization=meid0
+projectKey=MEID0_example
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.59516
+dashboardUrl=https://sonarcloud.io/dashboard?id=MEID0_example
+ceTaskId=AZTmuf0uW6Xa-tpdaUHh
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZTmuf0uW6Xa-tpdaUHh
